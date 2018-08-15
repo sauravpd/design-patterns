@@ -3,6 +3,11 @@ package prototype;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Student class
+ * @author saurav
+ *
+ */
 public class Student implements Cloneable
 {
 	private List<String> studentList;
