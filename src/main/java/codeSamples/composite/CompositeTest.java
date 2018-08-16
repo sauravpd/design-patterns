@@ -1,4 +1,4 @@
-package composite;
+package codeSamples.composite;
 
 /**
  * Composite Test class

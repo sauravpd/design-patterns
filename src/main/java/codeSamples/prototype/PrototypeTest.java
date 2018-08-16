@@ -1,4 +1,4 @@
-package prototype;
+package codeSamples.prototype;
 
 import java.util.List;
 
