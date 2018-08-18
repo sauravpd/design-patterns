@@ -1,5 +1,10 @@
 package codeSamples.builder;
 
+/**
+ * Builder Test class
+ * @author saurav
+ *
+ */
 public class BuilderTest 
 {
 	public static void main(String[] args) 
