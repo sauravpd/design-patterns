@@ -1,5 +1,10 @@
 package codeSamples.builder;
 
+/**
+ * Builder pattern example
+ * @author saurav
+ *
+ */
 public class Employee
 {
 	private int empID;
