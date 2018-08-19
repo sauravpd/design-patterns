@@ -1,5 +1,10 @@
 package codeSamples.template;
 
+/**
+ * Addition class
+ * @author saurav
+ *
+ */
 public class Addition extends Calculator
 {
 	private int a;
