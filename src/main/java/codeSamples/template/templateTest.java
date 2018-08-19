@@ -1,5 +1,10 @@
 package codeSamples.template;
 
+/**
+ * template pattern Test class 
+ * @author saurav
+ *
+ */
 public class templateTest 
 {
 	public static void main(String[] args) 
