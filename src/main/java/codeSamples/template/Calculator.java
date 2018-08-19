@@ -1,5 +1,10 @@
 package codeSamples.template;
 
+/**
+ * Calculator class
+ * @author saurav
+ *
+ */
 public abstract class Calculator 
 {
 	final void peformCalculation()
