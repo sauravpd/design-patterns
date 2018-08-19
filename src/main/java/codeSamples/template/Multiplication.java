@@ -1,5 +1,10 @@
 package codeSamples.template;
 
+/**
+ * Multiplication class
+ * @author saurav
+ *
+ */
 public class Multiplication extends Calculator
 {
 	private int a;
